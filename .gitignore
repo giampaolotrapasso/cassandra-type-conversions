@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+project/target/config-classes/$287453bc30c9437a6916.cache
+project/target/config-classes/$3db7600abbec42112710.cache
+project/target/config-classes/$4f134fbe9ba96a1f1d10.cache
+project/target/config-classes/$addfec4c7ff08c5f5ff3.cache
+.history
+target
