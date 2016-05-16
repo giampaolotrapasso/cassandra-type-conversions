@@ -1,6 +1,6 @@
 organization := "me.lessis"
 
-name := "default"
+name := "type conversions"
 
 version := "0.1.0-SNAPSHOT"
 
